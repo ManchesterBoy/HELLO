@@ -1,0 +1,8 @@
+#include<stdio.h>
+#include<iostream>
+using namespace std;
+#include<string.h>
+
+string a;
+cin>>a;
+cout<<"This test is "<<a<<endl;
