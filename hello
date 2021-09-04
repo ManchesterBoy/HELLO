@@ -6,3 +6,4 @@ using namespace std;
 string a;
 cin>>a;
 cout<<"This test is "<<a<<endl;
+cout<<"I am a test!!!"<<endl
